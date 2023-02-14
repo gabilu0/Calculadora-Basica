@@ -1,2 +1,2 @@
-# Calculadora-basica
+# Calculadora Básica
 Primeiro projeto usando JavaScript.
